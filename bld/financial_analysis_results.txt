@@ -1,0 +1,23 @@
+Cost Expense Ratio: 60.5%
+Marketing Spend Ratio: 8.4%
+Employee Salary Ratio: 25.9%
+Operational Expense Ratio: 5.2%
+
+Summary Statistics:
+                                          mean                  50%          std                  min                  max
+Date                       2024-07-03 12:00:00  2024-07-03 12:00:00          NaN  2024-01-07 00:00:00  2024-12-29 00:00:00
+Revenue                           48256.200962            48126.835  7349.190739             34322.64             64818.23
+Cost                              36069.290962             34854.63  7055.367433             23160.49             53464.13
+Marketing_Spend                    4911.725962             4934.505  1177.574274              2697.47              7955.89
+Employee_Salary                   15204.344808             15510.38  1796.401402             11970.31             20440.34
+Operational_Expense                3054.817692              3058.46    854.26555              1379.89              6082.19
+Profit                           -10983.978462           -11667.595  5821.815572             -20394.6              3478.11
+Cost_Expense_Ratio                   60.451903            60.359538     5.462919            49.807455            69.869433
+Marketing_Spend_Ratio                 8.438133             7.996499     2.406382              4.60591            14.929479
+Employee_Salary_Ratio                25.875238            25.849191     3.221721            18.980337            35.113414
+Operational_Expense_Ratio             5.234727             5.131287      1.64289             2.419149            11.095174
+
+Average Expenses: Cost                   36069.290962
+Marketing_Spend         4911.725962
+Employee_Salary        15204.344808
+Operational_Expense     3054.817692
